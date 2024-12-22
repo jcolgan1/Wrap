@@ -36,7 +36,6 @@ input[type=text] {
     align-items: center;
     color: white;
     font-size: 6vw;
-<<<<<<< HEAD
 }
 
 button {
@@ -46,6 +45,4 @@ button {
     height: 4vw;
     font-size: 2.75vw;
     font-weight: thinner;
-=======
->>>>>>> 9a7ff4c148f1ad954cfdff6e6f8e97e6debbcc60
 }
