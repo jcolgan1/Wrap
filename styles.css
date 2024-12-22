@@ -18,8 +18,11 @@ form {
 
 input[type=text] {
     color: #979797;
+    text-align: center;
     height: 3vw;
     width: 41vw;
+    font-size: 2.9vw;
+    color: #1DB954;
     padding-left: .521px;
     text-decoration: none;
 
